@@ -1,0 +1,7 @@
+services:
+  decorator-deno:
+    build: .
+    container_name: decorator-deno
+    volumes:
+      - ./:/app
+    command: ["run", "src/main.ts"]
