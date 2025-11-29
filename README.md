@@ -1,4 +1,4 @@
-# ☕ Decorator Coffee — Ejemplo del Patrón Decorator en TypeScript (Deno + Docker)
+# ☕ Decorator Coffee
 
 ## Ejecución con Docker
 
