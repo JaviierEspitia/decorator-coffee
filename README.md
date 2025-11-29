@@ -1,6 +1,6 @@
 # ☕ Decorator Coffee — Ejemplo del Patrón Decorator en TypeScript (Deno + Docker)
 
-## 🚀 Ejecución con Docker
+## Ejecución con Docker
 
 ### 1️⃣ Construcción inicial
 
