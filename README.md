@@ -2,12 +2,16 @@
 
 ## Ejecución con Docker
 
-### 1️⃣ Construcción inicial
+### 1 Clonar el proyecto localmente
 
+```bash
+git clone https://github.com/JaviierEspitia/decorator-coffee.git
+```
+### 2 Dentro de la carpeta del proyecto ejecutar
 ```bash
 docker compose up --build
 ```
-### 2️⃣ Ejecución normal (sin reconstruir)
+### 2 Si se quiere volver a ejecutar el proyecto
 Cuando ya se tiene la imagen construida y no hemos aplicado cambios
 ```bash
 docker compose up
